@@ -1,0 +1,19 @@
+th{
+background-color:orange;color: yellowgreen;
+text-align: start;
+}
+tabel{
+    background-color: white;
+    align-items: center;
+    
+}
+
+tr{
+    background-color: rgb(14, 14, 71);color: yellowgreen;
+}
+button{
+    width: ;
+    height:30px ;
+    margin: 2px;
+    border-color:orange ;
+}

@@ -1,0 +1,47 @@
+.one{
+background-color: rgb(239, 194, 149);
+border: 5px solid rgb(78, 71, 71);
+width: 300px;
+height: px;
+margin-left: 50px;
+}
+.two{
+    border: 1px solid black;
+    background-color:rgb(194, 83, 83);
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;color: aliceblue;
+    margin: 10px;
+    height:50px;
+}
+
+.three{
+    margin: 10px;
+    
+}
+.four{
+    margin: 10px;
+    
+}
+.five{
+    margin: 10px;
+    
+}
+.six{
+    margin: 10px;
+    
+}
+.seven{
+    border: 1px solid black;
+    text-align:center;
+    background-color:rgb(201, 201, 20);
+    margin: 10px;
+    height: 21px;
+    
+}
+button{
+    background-color: rgb(201, 201, 20);
+    border: rgb(201, 201, 20);
+    cursor: pointer;
+    
+}
